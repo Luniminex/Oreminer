@@ -21,8 +21,8 @@ WASD to move camera<br/>
 Mouse scroll wheel to zoom in/out<br/>
 Left click to place tile<br/>
 Right click to remove tile<br/>
-+ to go one layer up<br/>
-- to go one layer down<br/>
+'+' to go one layer up<br/>
+'-' to go one layer down<br/>
 C enable collision on placed tile<br/>
 O to enable single layer mode<br/>
 R to enable tile replacing mode<br/>
