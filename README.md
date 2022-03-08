@@ -8,7 +8,6 @@ If you want to try out the game you can download the build folder and run the ex
 ## Controls:<br/>
 
 In game:<br/>
-
 WASD to move<br/>
 F to mine<br/>
 E to initiate dialogue<br/>
