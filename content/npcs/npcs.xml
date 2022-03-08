@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<npcs>
+	<npc>
+		<id>0</id>
+		<name>George Fallis</name>
+		<craftinginterface>1</craftinginterface>
+		<idleCoordsStartX>0</idleCoordsStartX>
+		<idleCoordsStartY>0</idleCoordsStartY>
+		<frames>4</frames>
+	</npc>
+	<npc>
+		<id>1</id>
+		<name>Gendry Krhall</name>
+		<craftinginterface>0</craftinginterface>
+		<idleCoordsStartX>0</idleCoordsStartX>
+		<idleCoordsStartY>32</idleCoordsStartY>
+		<frames>4</frames>
+	</npc>
+	<npc>
+		<id>2</id>
+		<name>Lissandra Aieshkritz</name>
+		<craftinginterface>1</craftinginterface>
+		<idleCoordsStartX>0</idleCoordsStartX>
+		<idleCoordsStartY>64</idleCoordsStartY>
+		<frames>4</frames>
+	</npc>
+	<npc>
+		<id>3</id>
+		<name>Christos Vassiliou</name>
+		<craftinginterface>0</craftinginterface>
+		<idleCoordsStartX>0</idleCoordsStartX>
+		<idleCoordsStartY>96</idleCoordsStartY>
+		<frames>4</frames>
+	</npc>
+	<npc>
+		<id>4</id>
+		<name>Madukwe Koofrey</name>
+		<craftinginterface>0</craftinginterface>
+		<idleCoordsStartX>0</idleCoordsStartX>
+		<idleCoordsStartY>128</idleCoordsStartY>
+		<frames>4</frames>
+	</npc>
+	<npc>
+		<id>5</id>
+		<name>Leonard Bemelmans</name>
+		<craftinginterface>0</craftinginterface>
+		<idleCoordsStartX>0</idleCoordsStartX>
+		<idleCoordsStartY>64</idleCoordsStartY>
+		<frames>4</frames>
+	</npc>
+	<npc>
+		<id>6</id>
+		<name>Daughter</name>
+		<craftinginterface>0</craftinginterface>
+		<idleCoordsStartX>0</idleCoordsStartX>
+		<idleCoordsStartY>96</idleCoordsStartY>
+		<frames>4</frames>
+	</npc>
+</npcs>

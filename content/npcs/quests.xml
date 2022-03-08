@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='utf-8'?>
+<quests>
+
+	<quest>
+		<id>0</id>		<!-- ID of quest, in succesion from zero to x -->
+		<state>1</state>		<!-- in whichc state this quest is 0 = pending; 1 = unlocked; 2 = inprogress; 3 = done -->
+		<unlockcondition>0</unlockcondition>		<!-- int value representing enum in the game-->
+		<name>Bring George a red flower</name>
+		<context>George is old and his back hurts. He needs a red flower for some mysterius reason. Bring a red flower for him and he may reward you with something!</context>
+		<type>2</type>		<!-- Type of the quest - 0 = kill; 1 = talk; 2 = obtain;-->
+		<goal>
+			<elementid>23</elementid>			<!-- if kill quest, tell which enemy to kill by its ID, if gather, ID of item -->
+			<number>1</number>			<!-- how many to kill-->
+			<done>0</done>			<!-- how many has beeen done already -->
+		</goal>
+		<reward>
+			<rewardid>0</rewardid>			<!-- id of item that will be rewarded-->
+			<amount>8</amount>
+		</reward>
+	</quest>
+	<quest>
+		<id>1</id>		<!-- ID of quest, in succesion from zero to x -->
+		<state>0</state>		<!-- in whichc state this quest is 0 = pending; 1 = unlocked; 2 = inprogress; 3 = done -->
+		<unlockcondition>0</unlockcondition>		<!-- int value representing enum in the game-->
+		<name>Green pudding</name>
+		<context>Gendry has a little problem with slimes that are making nearby paths unacessable. He asked you to get rid of those pesky slimes.</context>
+		<type>0</type>		<!-- Type of the quest - 0 = kill; 1 = talk; 2 = obtain;-->
+		<goal>
+			<elementid>0</elementid>			<!-- if kill quest, tell which enemy to kill by its ID -->
+			<number>3</number>			<!-- how many to kill-->
+			<done>0</done>			<!-- how many has beeen done already -->
+		</goal>
+		<reward>
+			<rewardid>2</rewardid>			<!-- id of item that will be rewarded-->
+			<amount>4</amount>
+		</reward>
+	</quest>
+
+	<quest>
+		<id>2</id>		<!-- ID of quest, in succesion from zero to x -->
+		<state>0</state>		<!-- in whichc state this quest is 0 = pending; 1 = unlocked; 2 = inprogress; 3 = done -->
+		<unlockcondition>0</unlockcondition>		<!-- int value representing enum in the game-->
+		<name>Gather jelly for Lissandra's potion</name>
+		<context>Gendry needs some copper ore as fast as possible so he can repair his tools needed for farming. He said that they need to be made out of copper ore which he just ran out recently. He has a lot of iron ore though.</context>
+		<type>2</type>		<!-- Type of the quest - 0 = kill; 1 = talk; 2 = obtain;-->
+		<goal>
+			<elementid>0</elementid>			<!-- if kill quest, tell which enemy to kill by its ID -->
+			<number>6</number>			<!-- how many to kill-->
+			<done>0</done>			<!-- how many has beeen done already -->
+		</goal>
+		<reward>
+			<rewardid>1</rewardid>			<!-- id of item that will be rewarded-->
+			<amount>3</amount>
+		</reward>
+		<reward>
+			<rewardid>4</rewardid>			<!-- id of item that will be rewarded-->
+			<amount>2</amount>
+		</reward>
+	</quest>
+	<quest>
+		<id>3</id>		<!-- ID of quest, in succesion from zero to x -->
+		<state>0</state>		<!-- in whichc state this quest is 0 = pending; 1 = unlocked; 2 = inprogress; 3 = done -->
+		<unlockcondition>0</unlockcondition>		<!-- int value representing enum in the game-->
+		<name>Special slimy potion</name>
+		<context>Lissandra is curious of offects that will be created from mixing slime goo and bone marrow from wolfs fangs. She will pay you handsomely of course.</context>
+		<type>2</type>		<!-- Type of the quest - 0 = kill; 1 = talk; 2 = obtain;-->
+		<goal>
+			<elementid>19</elementid>			<!-- if kill quest, tell which enemy to kill by its ID -->
+			<number>3</number>			<!-- how many to kill-->
+			<done>0</done>			<!-- how many has beeen done already -->
+		</goal>
+		<goal>
+			<elementid>20</elementid>			<!-- if kill quest, tell which enemy to kill by its ID -->
+			<number>1</number>			<!-- how many to kill-->
+			<done>0</done>			<!-- how many has beeen done already -->
+		</goal>
+		<reward>
+			<rewardid>4</rewardid>			<!-- id of item that will be rewarded-->
+			<amount>5</amount>
+		</reward>
+	</quest>
+	<quest>
+		<id>4</id>		<!-- ID of quest, in succesion from zero to x -->
+		<state>0</state>		<!-- in whichc state this quest is 0 = pending; 1 = unlocked; 2 = inprogress; 3 = done -->
+		<unlockcondition>0</unlockcondition>		<!-- int value representing enum in the game-->
+		<name>Wolf vs. slime</name>
+		<context>Lissandra has a quarrel with local wofves killing local slimes a lot. She asked you to make wolf population smaller.</context>
+		<type>0</type>		<!-- Type of the quest - 0 = kill; 1 = talk; 2 = obtain;-->
+		<goal>
+			<elementid>1</elementid>			<!-- if kill quest, sell which enemy to kill by its ID -->
+			<number>3</number>			<!-- how many to kill-->
+			<done>0</done>			<!-- how many has beeen done already -->
+		</goal>
+		<reward>
+			<rewardid>1</rewardid>			<!-- id of item that will be rewarded-->
+			<amount>6</amount>
+		</reward>
+	</quest>
+	<quest>
+		<id>5</id>		<!-- ID of quest, in succesion from zero to x -->
+		<state>0</state>		<!-- in whichc state this quest is 0 = pending; 1 = unlocked; 2 = inprogress; 3 = done -->
+		<unlockcondition>0</unlockcondition>		<!-- int value representing enum in the game-->
+		<name>Infested cave</name>
+		<context>This cave seems to be infested. Guard asked me to exterminate few bats. Shouldn't be a trouble.</context>
+		<type>0</type>		<!-- Type of the quest - 0 = kill; 1 = talk; 2 = obtain;-->
+		<goal>
+			<elementid>2</elementid>			<!-- if kill quest, tell which enemy to kill by its ID -->
+			<number>4</number>			<!-- how many to kill-->
+			<done>0</done>			<!-- how many has beeen done already -->
+		</goal>
+		<reward>
+			<rewardid>4</rewardid>			<!-- id of item that will be rewarded-->
+			<amount>5</amount>
+		</reward>
+	</quest>
+	<quest>
+		<id>6</id>		<!-- ID of quest, in succesion from zero to x -->
+		<state>0</state>		<!-- in whichc state this quest is 0 = pending; 1 = unlocked; 2 = inprogress; 3 = done -->
+		<unlockcondition>0</unlockcondition>		<!-- int value representing enum in the game-->
+		<name>Friend in danger</name>
+		<context>It would seem that friend of Madukwe is lost. He asked me to find his friend Leonard.</context>
+		<type>1</type>		<!-- Type of the quest - 0 = kill; 1 = talk; 2 = obtain;-->
+		<goal>
+			<elementid>6</elementid>			<!-- if kill quest, tell which enemy to kill by its ID -->
+			<number>1</number>			<!-- how many to kill-->
+			<done>0</done>			<!-- how many has beeen done already -->
+		</goal>
+		<reward>
+			<rewardid>2</rewardid>			<!-- id of item that will be rewarded-->
+			<amount>4</amount>
+		</reward>
+	</quest>
+</quests>

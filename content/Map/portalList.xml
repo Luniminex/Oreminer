@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Portals>
+	<portal>
+		<id>0</id>
+		<path>STARTINGMAP</path>
+		<texCoordsX>0</texCoordsX>
+		<texCoordsY>0</texCoordsY>
+	</portal>
+	<portal>
+		<id>1</id>
+		<path>MINESHAFTMAP</path>
+		<texCoordsX>0</texCoordsX>
+		<texCoordsY>32</texCoordsY>
+	</portal>
+</Portals>
