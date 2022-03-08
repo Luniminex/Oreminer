@@ -31,7 +31,7 @@ ESC to open menu<br/>
 
 ## Notes
 
-Editor
+Editor<br/>
 Choose map which one you want to edit in dropdown menu and click load. Then you can edit the map you've selected. If you want to edit map in save 2 or 3
 you first need to open save 2 or 3 and then go to editor and start editing. Don't forget to save the map before quitting.
 
