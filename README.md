@@ -5,7 +5,7 @@ I used SFML boilerplate for vs code from here: https://github.com/rewrking/sfml-
 
 If you want to try out the game you can download the build folder and run the exe file.
 
-##Controls:<br/>
+##Controls:##<br/>
 WASD to move<br/>
 F to mine<br/>
 E to initiate dialogue<br/>
