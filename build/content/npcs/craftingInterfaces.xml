@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='utf-8'?><!-- verze a kódování XML souboru -->
+<interfaces>
+	<interface>		<!-- začátek jednoho rozhraní pro vyrábění předmětů -->
+		<id>0</id>		<!--unikátní identifikáto daného rozhraní pro vyrábění předmětů -->
+		<recipe>			<!-- označení receptu -->
+			<ingredient>0</ingredient>			<!-- unikátní identifikátor předmětu -->
+			<amount>8</amount>			<!-- počet předmětů daného typu zvoleného nad tímhle řádkem -->
+			<result>8</result>			<!-- unikátní identifikátor předmětu, který bude po sléze vyroben -->
+		</recipe>		<!-- ukončení receptu -->
+		<recipe>
+			<ingredient>0</ingredient>
+			<amount>8</amount>
+			<ingredient>3</ingredient>
+			<amount>4</amount>
+			<result>16</result>
+		</recipe>
+		<recipe>
+			<ingredient>0</ingredient>
+			<amount>8</amount>
+			<ingredient>3</ingredient>
+			<amount>4</amount>
+			<result>24</result>
+		</recipe>
+		<recipe>
+			<ingredient>1</ingredient>
+			<amount>8</amount>
+			<ingredient>4</ingredient>
+			<amount>4</amount>
+			<result>9</result>
+		</recipe>
+		<recipe>
+			<ingredient>1</ingredient>
+			<amount>8</amount>
+			<ingredient>4</ingredient>
+			<amount>4</amount>
+			<result>17</result>
+		</recipe>
+		<recipe>
+			<ingredient>1</ingredient>
+			<amount>8</amount>
+			<ingredient>4</ingredient>
+			<amount>4</amount>
+			<result>25</result>
+		</recipe>
+
+		<recipe>
+			<ingredient>2</ingredient>
+			<amount>8</amount>
+			<ingredient>5</ingredient>
+			<amount>4</amount>
+			<result>10</result>
+		</recipe>
+		<recipe>
+			<ingredient>2</ingredient>
+			<amount>8</amount>
+			<ingredient>5</ingredient>
+			<amount>4</amount>
+			<result>18</result>
+		</recipe>
+		<recipe>
+			<ingredient>2</ingredient>
+			<amount>8</amount>
+			<ingredient>5</ingredient>
+			<amount>4</amount>
+			<result>26</result>
+		</recipe>
+	</interface>
+	<!-- ................................................................-->
+	<interface>
+		<id>2</id>
+		<recipe>
+			<ingredient>19</ingredient>
+			<amount>4</amount>
+			<ingredient>3</ingredient>
+			<amount>4</amount>
+			<result>27</result>
+		</recipe>
+		<recipe>
+			<ingredient>20</ingredient>
+			<amount>4</amount>
+			<ingredient>4</ingredient>
+			<amount>4</amount>
+			<result>28</result>
+		</recipe>
+		<recipe>
+			<ingredient>21</ingredient>
+			<amount>4</amount>
+			<ingredient>4</ingredient>
+			<amount>4</amount>
+			<result>29</result>
+		</recipe>
+		<recipe>
+			<ingredient>22</ingredient>
+			<amount>4</amount>
+			<ingredient>5</ingredient>
+			<amount>4</amount>
+			<result>30</result>
+		</recipe>
+	</interface>
+</interfaces>

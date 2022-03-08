@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Attributes>
+	<attribute>
+		<level>1</level>
+		<experience>18</experience>
+		<experienceBar>100</experienceBar>
+		<miningPower>0</miningPower>
+		<health>25</health>
+		<maxhealth>25</maxhealth>
+		<healthregen>1</healthregen>
+		<mana>100</mana>
+		<maxmana>100</maxmana>
+		<manaregen>1</manaregen>
+		<stamina>25</stamina>
+		<maxstamina>25</maxstamina>
+		<staminaregen>3</staminaregen>
+		<strenght>5</strenght>
+		<critdamage>150</critdamage>
+		<critchance>5</critchance>
+		<dodgechance>5</dodgechance>
+		<armour>2</armour>
+	</attribute>
+</Attributes>
+

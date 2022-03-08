@@ -1,0 +1,297 @@
+<?xml version='1.0' encoding='utf-8'?>
+<dialogues>
+	<!-- George Fallis-->
+	<dialogue>
+		<npcid>1</npcid>
+		<name>welcome</name>
+		<version>0</version>		<!-- assign different values to dialogues of same type, if its quest type dialogue, version coresponds to questID in the game -->
+		<page>Hello fellow adventurer!</page>
+		<page>My name is George Fallis, I live in the nearby house down the road.</page>
+		<page>Good luck on your travels.</page>
+	</dialogue>
+	<dialogue>
+		<npcid>1</npcid>
+		<name>welcome</name>
+		<version>1</version>		<!-- assign different values to dialogues of same type, if its quest type dialogue, version coresponds to questID in the game -->
+		<page>Hello adventurer! My name is George fallis.</page>
+		<page>You could say hello to Gendry, he may make some equipment.</page>
+	</dialogue>
+	<dialogue>
+		<npcid>1</npcid>
+		<name>welcome</name>
+		<version>2</version>		<!-- assign different values to dialogues of same type, if its quest type dialogue, version coresponds to questID in the game -->
+		<page>Hello there adventurer, I am George Fallis.</page>
+		<page>You should visit Lissandra if you'd want some special equipment.</page>
+	</dialogue>
+	<dialogue>
+		<npcid>1</npcid>
+		<name>giveQuest</name>
+		<version>0</version>
+		<page>Hello there again!</page>
+		<page>Could you bring me me that red flower over there?</page>
+		<page>I am very old now and my back hurts.</page>
+		<page>I'd give you something useful in return for your favor.</page>
+	</dialogue>
+	<dialogue>
+		<npcid>1</npcid>
+		<name>completeQuest</name>
+		<version>0</version>		<!-- version coresponds to ID of quest -->
+		<page>Hey, thank you for bringing me that flower.</page>
+		<page>Here is some copper ore and rubies for your favor.</page>
+		<page>Gendry could make something out of this, for examble a sword.</page>
+	</dialogue>
+	<dialogue>
+		<npcid>1</npcid>
+		<name>random</name>
+		<version>0</version>
+		<page>Hey, how is your adventure going?</page>
+		<page>Good luck on your travels</page>
+	</dialogue>
+	<dialogue>
+		<npcid>1</npcid>
+		<name>random</name>
+		<version>1</version>
+		<page>Hello there adventurer.</page>
+		<page>Be safe on your travels.</page>
+	</dialogue>
+	<!-- George Fallis-->
+
+	<!-- Gendry Krhall -->
+	<dialogue>
+		<npcid>0</npcid>
+		<name>welcome</name>
+		<version>0</version>
+		<page>Hmm, you are new here</page>
+		<page>Hmmm. It looks rusty. Your sword.</page>
+		<page>I could make you better one if you have the right materials for it.</page>
+	</dialogue>
+	<dialogue>
+		<npcid>0</npcid>
+		<name>welcome</name>
+		<version>1</version>
+		<page>I could hear that clanking armour from miles away.</page>
+		<page>I could make you better one if you have the right materials for it.</page>
+	</dialogue>
+	<dialogue>
+		<npcid>0</npcid>
+		<name>random</name>
+		<version>0</version>
+		<page>Hoy, have you brought me those materials already so I could stop that clanking armour of yours finally?</page>
+	</dialogue>
+	<dialogue>
+		<npcid>0</npcid>
+		<name>random</name>
+		<version>1</version>
+		<page>What brings you here today?</page>
+	</dialogue>
+	<dialogue>
+		<npcid>0</npcid>
+		<name>giveQuest</name>
+		<version>1</version>
+		<page>hey, I've got a favor to ask of you.</page>
+		<page>My merchant that brings me goodies regurally can't bring me them because of all those pesky slimes on the road.</page>
+		<page>If you could get rid of them, I'd share some goodies with you in return.</page>
+	</dialogue>
+	<dialogue>
+		<npcid>0</npcid>
+		<name>completeQuest</name>
+		<version>1</version>
+		<page>So you are back.</page>
+		<page>So what about the slimes? Are they still there?</page>
+		<page>Great, I am happy to hear that. Here are some goodies in return as I promised.</page>
+	</dialogue>
+	<dialogue>
+		<npcid>0</npcid>
+		<name>giveQuest</name>
+		<version>2</version>
+		<page>hey, I've got a another favor to ask of you.</page>
+		<page>I ran out of all copper I had in store to repair my farm tools.</page>
+		<page>Thats because my merchant hasn't arrived because of those pesky slimes on time as we agreed.</page>
+		<page>Could you bring me some copper ore? I'd give you some iron ore in exchange for that.</page>
+	</dialogue>
+	<dialogue>
+		<npcid>0</npcid>
+		<name>completeQuest</name>
+		<version>2</version>
+		<page>Oh you are back just in time.</page>
+		<page>Now we wont starve in winter, thank you!</page>
+	</dialogue>
+	<!-- Gendry Krhall -->
+
+	<!-- Lissandra Aeishkritz -->
+	<dialogue>
+		<npcid>2</npcid>
+		<name>welcome</name>
+		<version>0</version>
+		<page>Hoyde fella, Name's Lissandra.</page>
+		<page>I like to experiment with different unique materials.</page>
+		<page>If you want to conduct some experiment, you know where to look!</page>
+	</dialogue>
+	<dialogue>
+		<npcid>2</npcid>
+		<name>welcome</name>
+		<version>1</version>
+		<page>Oi, you handsome adventurer!</page>
+		<page>Name's Lissandra. If you want some exotic gear, come talk to me!</page>
+	</dialogue>
+	<dialogu>
+		<npcid>2</npcid>
+		<name>random</name>
+		<version>0</version>
+		<page>So, tell me, Would you like to make something special?</page>
+	</dialogu>
+	<dialogue>
+		<npcid>2</npcid>
+		<name>giveQuest</name>
+		<version>3</version>
+		<page>Well hello there!</page>
+		<page>I want you to bring me some slime goo and one wolf fang. I want to try to mix crushed wolfs fang with slime goo.</page>
+		<page>Who knows, something interesting may come out of it! And I'll pay you handosomely of course.</page>
+	</dialogue>
+	<dialogue>
+		<npcid>2</npcid>
+		<name>completeQuest</name>
+		<version>3</version>
+		<page>Hii! So you are back finally!</page>
+		<page>You got the slime goo and wolfs fang?</page>
+		<page>Amazing! I am on my way to win the next Cobel prize!</page>
+	</dialogue>
+	<dialogue>
+		<npcid>2</npcid>
+		<name>giveQuest</name>
+		<version>4</version>
+		<page>Hello again!</page>
+		<page>Would you be so kind get rid of some wolves for me?</page>
+		<page>They are so many of them that they just staed to kill all slimes they come in contact with!</page>
+		<page>I am afraid they would eterminate all slimes around here soon and I'd run out of slime goo for my experiments!</page>
+	</dialogue>
+	<dialogue>
+		<npcid>2</npcid>
+		<name>completeQuest</name>
+		<version>4</version>
+		<page>So you managed to get their population down a bit?</page>
+		<page>Great, here are some materials so you wouldn't say to others that you worked for free!</page>
+	</dialogue>
+	<!-- Lissandra Aeishkritz -->
+	<!-- Christos Vassiliou -->
+	<dialogue>
+		<npcid>3</npcid>
+		<name>welcome</name>
+		<version>0</version>
+		<page>Hello. I am the guard of this cave entrance.</page>
+		<page>So you are adventurer. You may pass then.</page>
+	</dialogue>
+	<dialogue>
+		<npcid>3</npcid>
+		<name>welcome</name>
+		<version>1</version>
+		<page>Stay there! I am the guard of this entrance.</page>
+		<page>So you are adventurer. You may pass then.</page>
+	</dialogue>
+	<dialogu>
+		<npcid>3</npcid>
+		<name>random</name>
+		<version>0</version>
+		<page>Is someone in trouble?</page>
+	</dialogu>
+	<dialogue>
+		<npcid>3</npcid>
+		<name>giveQuest</name>
+		<version>5</version>
+		<page>Hold!</page>
+		<page>It seems this cave is infested with bats. Could you get rid some of them?</page>
+		<page>I'd pay you of course.</page>
+	</dialogue>
+	<dialogue>
+		<npcid>3</npcid>
+		<name>completeQuest</name>
+		<version>5</version>
+		<page>Good job.</page>
+		<page>Now it is a bit more safer.</page>
+		<page>Here is the pay.</page>
+	</dialogue>
+	<!-- Madukwe Vassiliou -->
+	<dialogue>
+		<npcid>4</npcid>
+		<name>welcome</name>
+		<version>0</version>
+		<page>Oh, hello there, I didn't think I'd meet anyone here</page>
+	</dialogue>
+	<dialogu>
+		<npcid>4</npcid>
+		<name>random</name>
+		<version>0</version>
+		<page>What do you need ?</page>
+	</dialogu>
+	<dialogue>
+		<npcid>4</npcid>
+		<name>giveQuest</name>
+		<version>6</version>
+		<page>Would you please help me? My friend seems to be lost in this cave!</page>
+		<page>Could you find him for me please?</page>
+	</dialogue>
+	<dialogue>
+		<npcid>4</npcid>
+		<name>completeQuest</name>
+		<version>6</version>
+		<page>Oh, thank god you found him!</page>
+		<page>I don't know what I would have done without you!</page>
+	</dialogue>
+	<!-- Leonard Bemelmans -->
+	<dialogue>
+		<npcid>5</npcid>
+		<name>welcome</name>
+		<version>0</version>
+		<page>Oh, hey, the old man is looking for me?</page>
+	</dialogue>
+	<dialogu>
+		<npcid>5</npcid>
+		<name>random</name>
+		<version>0</version>
+		<page>I hope she is safe...</page>
+	</dialogu>
+	<dialogue>
+		<npcid>5</npcid>
+		<name>giveQuest</name>
+		<version>7</version>
+		<page>We actually came looking here for another person and got lost ourselves.</page>
+		<page>Please could you look for her? She is my daughter and don't know why she would ever come here!</page>
+	</dialogue>
+	<dialogue>
+		<npcid>5</npcid>
+		<name>completeQuest</name>
+		<version>7</version>
+		<page>Thanks heavens she is safe and well!</page>
+		<page>Those damn spiders caught her in the web!</page>
+		<page>She asked you to marry her?!</page>
+		<page>Well since you saved her and you dont seem like weirdo, I'll glady give you my permission to take her hand.</page>
+	</dialogue>
+	<!-- Leonard Bemelmans -->
+	<dialogue>
+		<npcid>6</npcid>
+		<name>welcome</name>
+		<version>0</version>
+		<page>Oh, my hero! You've found me! *sob*</page>
+		<page>Thank you for saving me! *sob*</page>
+	</dialogue>
+	<dialogu>
+		<npcid>6</npcid>
+		<name>random</name>
+		<version>0</version>
+		<page>*sobbing*</page>
+		<page>*sobbing some more*</page>
+	</dialogu>
+	<dialogue>
+		<npcid>6</npcid>
+		<name>giveQuest</name>
+		<version>8</version>
+		<page>Could you tell my father that I am save ?</page>
+	</dialogue>
+	<dialogue>
+		<npcid>5</npcid>
+		<name>completeQuest</name>
+		<version>7</version>
+		<page>Thank you for telling my father!</page>
+		<page>I am glad he knows that I am save</page>
+	</dialogue>
+</dialogues>

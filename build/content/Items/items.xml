@@ -1,0 +1,369 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<items>
+	<item>
+		<id>0</id>
+		<name>Copper Ore</name>
+		<description>One of the softest ores there is. Yet it is still suitable for armour with basic protection. </description>
+		<stackable>1</stackable>
+		<stack>8</stack>
+		<type>0</type>
+		<texturePositionX>0</texturePositionX>
+		<texturePositionY>0</texturePositionY>
+	</item>
+	<item>
+		<id>1</id>
+		<name>Iron Ore</name>
+		<description>Sturdy ore</description>
+		<stackable>1</stackable>
+		<stack>8</stack>
+		<type>0</type>
+		<texturePositionX>0</texturePositionX>
+		<texturePositionY>32</texturePositionY>
+	</item>
+	<item>
+		<id>2</id>
+		<name>Gold Ore</name>
+		<description>One of the rarest ores found in nearby areas. You could craft great gear with this ore.</description>
+		<stackable>1</stackable>
+		<stack>8</stack>
+		<type>0</type>
+		<texturePositionX>0</texturePositionX>
+		<texturePositionY>64</texturePositionY>
+	</item>
+	<item>
+		<id>3</id>
+		<name>Ruby</name>
+		<description>Expert craftsmiths seek this gem for making jewelry. You could use this as payment for crafting gear.</description>
+		<stackable>1</stackable>
+		<stack>8</stack>
+		<type>0</type>
+		<texturePositionX>0</texturePositionX>
+		<texturePositionY>96</texturePositionY>
+	</item>
+	<item>
+		<id>4</id>
+		<name>Sapphire</name>
+		<description>One of the rarer gems found in the caves.</description>
+		<stackable>1</stackable>
+		<stack>8</stack>
+		<type>0</type>
+		<texturePositionX>0</texturePositionX>
+		<texturePositionY>128</texturePositionY>
+	</item>
+	<item>
+		<id>5</id>
+		<name>Emerald</name>
+		<description>Legendary gem craftsmiths all around the world wish to lay their hands upon.</description>
+		<stackable>1</stackable>
+		<stack>8</stack>
+		<type>0</type>
+		<texturePositionX>0</texturePositionX>
+		<texturePositionY>160</texturePositionY>
+	</item>
+	<item>
+		<id>6</id>
+		<name>Vines</name>
+		<description>Flexible material harvested from various trees and bushes. Quite flexible.</description>
+		<stackable>1</stackable>
+		<stack>32</stack>
+		<type>0</type>
+		<texturePositionX>0</texturePositionX>
+		<texturePositionY>192</texturePositionY>
+	</item>
+	<item>
+		<id>7</id>
+		<name>Log</name>
+		<description>A chunk of wood that was cut out from trees.</description>
+		<stackable>1</stackable>
+		<stack>8</stack>
+		<type>0</type>
+		<texturePositionX>0</texturePositionX>
+		<texturePositionY>224</texturePositionY>
+	</item>
+	<item>
+		<id>8</id>
+		<name>Copper pickaxe</name>
+		<description>You could mine some sturdier ore with this in your hands.</description>
+		<stackable>0</stackable>
+		<stack>1</stack>
+		<type>1</type>
+		<miningPower>1</miningPower>
+		<texturePositionX>32</texturePositionX>
+		<texturePositionY>0</texturePositionY>
+	</item>
+	<item>
+		<id>9</id>
+		<name>Iron pickaxe</name>
+		<description>Pickaxe made of a strong material and crafted by expert craftsmith.</description>
+		<stackable>0</stackable>
+		<stack>1</stack>
+		<type>1</type>
+		<miningPower>2</miningPower>
+		<texturePositionX>32</texturePositionX>
+		<texturePositionY>32</texturePositionY>
+	</item>
+	<item>
+		<id>10</id>
+		<name>Gold pickaxe</name>
+		<description>Not only this pickaxe really shine, it mines really well aswell.</description>
+		<stackable>0</stackable>
+		<stack>1</stack>
+		<type>1</type>
+		<miningPower>3</miningPower>
+		<texturePositionX>32</texturePositionX>
+		<texturePositionY>64</texturePositionY>
+	</item>
+	<item>
+		<id>11</id>
+		<name>Ruby necklace</name>
+		<description>You feel a life pulsating from the gem carved inside the necklace.</description>
+		<stackable>0</stackable>
+		<stack>1</stack>
+		<type>0</type>
+		<texturePositionX>32</texturePositionX>
+		<texturePositionY>96</texturePositionY>
+	</item>
+	<item>
+		<id>12</id>
+		<name>Sapphire necklace</name>
+		<description>The necklace gives off scent of ocean.</description>
+		<stackable>0</stackable>
+		<stack>1</stack>
+		<type>0</type>
+		<texturePositionX>32</texturePositionX>
+		<texturePositionY>128</texturePositionY>
+	</item>
+	<item>
+		<id>13</id>
+		<name>Emerald necklace</name>
+		<description>You can feel surging energy from the necklace.</description>
+		<stackable>0</stackable>
+		<stack>1</stack>
+		<type>0</type>
+		<texturePositionX>32</texturePositionX>
+		<texturePositionY>160</texturePositionY>
+	</item>
+	<item>
+		<id>14</id>
+		<name>Wooden sticks</name>
+		<description>Little wooden sticks clumped together.</description>
+		<stackable>1</stackable>
+		<stack>32</stack>
+		<type>0</type>
+		<texturePositionX>32</texturePositionX>
+		<texturePositionY>192</texturePositionY>
+	</item>
+	<item>
+		<id>15</id>
+		<name>Stone</name>
+		<description>A heavy boulder. Don't drop it on your feet.</description>
+		<stackable>1</stackable>
+		<stack>8</stack>
+		<type>0</type>
+		<texturePositionX>32</texturePositionX>
+		<texturePositionY>224</texturePositionY>
+	</item>
+	<item>
+		<id>16</id>
+		<name>Copper sword</name>
+		<description>Not really sharp sword.</description>
+		<stackable>0</stackable>
+		<stack>1</stack>
+		<type>2</type>
+		<strenght>5</strenght>
+		<critchance>3</critchance>
+		<critdamage>20</critdamage>
+		<texturePositionX>64</texturePositionX>
+		<texturePositionY>0</texturePositionY>
+	</item>
+	<item>
+		<id>17</id>
+		<name>Iron sword</name>
+		<description>Really sharp iron sword. You could cut wood with this sword.</description>
+		<stackable>0</stackable>
+		<stack>1</stack>
+		<type>2</type>
+		<strenght>10</strenght>
+		<critchance>6</critchance>
+		<critdamage>30</critdamage>
+		<texturePositionX>64</texturePositionX>
+		<texturePositionY>32</texturePositionY>
+	</item>
+	<item>
+		<id>18</id>
+		<name>Golden sword</name>
+		<description>Sword worthy of a knight. You feel like you could cut throught the earth.</description>
+		<stackable>0</stackable>
+		<stack>1</stack>
+		<type>2</type>
+		<strenght>18</strenght>
+		<critchance>12</critchance>
+		<critdamage>35</critdamage>
+		<texturePositionX>64</texturePositionX>
+		<texturePositionY>64</texturePositionY>
+	</item>
+	<item>
+		<id>19</id>
+		<name>Slime goo</name>
+		<description>A slime goo that was extracted from the remains of a slain slime.</description>
+		<stackable>1</stackable>
+		<stack>16</stack>
+		<type>0</type>
+		<texturePositionX>64</texturePositionX>
+		<texturePositionY>96</texturePositionY>
+	</item>
+	<item>
+		<id>20</id>
+		<name>Wolf fang</name>
+		<description>If only it would be a bit tougher, you could use it as a dagger!</description>
+		<stackable>1</stackable>
+		<stack>16</stack>
+		<type>0</type>
+		<texturePositionX>64</texturePositionX>
+		<texturePositionY>128</texturePositionY>
+	</item>
+	<item>
+		<id>21</id>
+		<name>Bat wing</name>
+		<description>Wing that was cut off bat corpse.</description>
+		<stackable>1</stackable>
+		<stack>16</stack>
+		<type>0</type>
+		<texturePositionX>64</texturePositionX>
+		<texturePositionY>160</texturePositionY>
+	</item>
+	<item>
+		<id>22</id>
+		<name>Spider silk</name>
+		<description>Silk extracted from monstrous spider that is tougher than steel while remaining really flexible.</description>
+		<stackable>1</stackable>
+		<stack>16</stack>
+		<type>0</type>
+		<texturePositionX>64</texturePositionX>
+		<texturePositionY>192</texturePositionY>
+	</item>
+	<item>
+		<id>23</id>
+		<name>Red flower</name>
+		<description>A little beautiful blooming red flower that could make some girl happy.</description>
+		<stackable>1</stackable>
+		<stack>16</stack>
+		<type>0</type>
+		<texturePositionX>64</texturePositionX>
+		<texturePositionY>224</texturePositionY>
+	</item>
+	<item>
+		<id>24</id>
+		<name>Copper armour</name>
+		<description>Weak but atleast it provides basic protection</description>
+		<stackable>0</stackable>
+		<stack>1</stack>
+		<type>7</type>
+		<armour>10</armour>
+		<dodgechance>3</dodgechance>
+		<healthregen>1</healthregen>
+		<health>10</health>
+		<maxhealth>10</maxhealth>
+		<texturePositionX>96</texturePositionX>
+		<texturePositionY>0</texturePositionY>
+	</item>
+	<item>
+		<id>25</id>
+		<name>Iron Armour</name>
+		<description>Tough armour made from tough material. You feel safe wearing this armour.</description>
+		<stackable>0</stackable>
+		<stack>1</stack>
+		<type>7</type>
+		<armour>20</armour>
+		<dodgechance>6</dodgechance>
+		<healthregen>2</healthregen>
+		<health>20</health>
+		<maxhealth>20</maxhealth>
+		<texturePositionX>96</texturePositionX>
+		<texturePositionY>32</texturePositionY>
+	</item>
+	<item>
+		<id>26</id>
+		<name>Golden Armour</name>
+		<description>Armour that knights armour is made from in capital city Coopera.</description>
+		<stackable>0</stackable>
+		<stack>1</stack>
+		<type>7</type>
+		<armour>30</armour>
+		<dodgechance>10</dodgechance>
+		<healthregen>4</healthregen>
+		<health>30</health>
+		<maxhealth>30</maxhealth>
+		<texturePositionX>96</texturePositionX>
+		<texturePositionY>64</texturePositionY>
+	</item>
+	<item>
+		<id>27</id>
+		<name>Slime ring</name>
+		<description>Slime goo was inserted inside ruby gem. You feel more alive when you wear this ring.</description>
+		<stackable>0</stackable>
+		<stack>1</stack>
+		<type>3</type>
+		<dodgechance>8</dodgechance>
+		<healthregen>2</healthregen>
+		<staminaregen>6</staminaregen>
+		<critchance>5</critchance>
+		<texturePositionX>96</texturePositionX>
+		<texturePositionY>96</texturePositionY>
+	</item>
+	<item>
+		<id>28</id>
+		<name>Wolf necklace</name>
+		<description>You feel empowered when wearing this necklace.</description>
+		<stackable>0</stackable>
+		<stack>1</stack>
+		<type>4</type>
+		<strenght>6</strenght>
+		<critdamage>50</critdamage>
+		<critchance>5</critchance>
+		<armour>2</armour>
+		<texturePositionX>96</texturePositionX>
+		<texturePositionY>128</texturePositionY>
+	</item>
+	<item>
+		<id>29</id>
+		<name>Bat helmet</name>
+		<description>Slime goo seemed to revive wings of fallen bat. Now it helps you to move more faster</description>
+		<stackable>0</stackable>
+		<stack>1</stack>
+		<type>5</type>
+		<dodgechance>15</dodgechance>
+		<maxstamina>20</maxstamina>
+		<staminaregen>5</staminaregen>
+		<armour>3</armour>
+		<critchance>5</critchance>
+		<texturePositionX>96</texturePositionX>
+		<texturePositionY>160</texturePositionY>
+	</item>
+	<item>
+		<id>30</id>
+		<name>Spider whip</name>
+		<description>You feel like cowboy in the west.</description>
+		<stackable>0</stackable>
+		<stack>1</stack>
+		<strenght>6</strenght>
+		<critchance>10</critchance>
+		<healthregen>3</healthregen>
+		<stamina>10</stamina>
+		<staminaregen>5</staminaregen>
+		<type>6</type>
+		<texturePositionX>96</texturePositionX>
+		<texturePositionY>192</texturePositionY>
+	</item>
+	<item>
+		<id>31</id>
+		<name>Orange flower</name>
+		<description>A little beautiful blooming orange flower that could make some girl happy.</description>
+		<stackable>1</stackable>
+		<stack>16</stack>
+		<type>0</type>
+		<texturePositionX>96</texturePositionX>
+		<texturePositionY>224</texturePositionY>
+	</item>
+</items>
