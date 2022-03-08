@@ -7,7 +7,7 @@ If you want to try out the game you can download the build folder and run the ex
 
 ## Controls:<br/>
 
-In game:<br/>
+### In game:<br/>
 WASD to move<br/>
 F to mine<br/>
 E to initiate dialogue<br/>
@@ -16,7 +16,7 @@ Tab to open inventory<br/>
 C to open attributes<br/>
 ESC to pause<br/>
 
-In map editor:<br/>
+### In map editor:<br/>
 WASD to move camera<br/>
 Mouse scroll wheel to zoom in/out<br/>
 Left click to place tile<br/>
