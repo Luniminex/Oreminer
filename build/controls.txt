@@ -9,3 +9,4 @@ in editor - don't save if you dont know what you are doing
 		  - C - place tile with collision
 		  - R - automatically replace tile
 		  - O - draw single layer
+		  - + and - to go up or down layer
