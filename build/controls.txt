@@ -1,0 +1,11 @@
+while exploring map - ESC - pause menu
+					 - c - shows attributes
+					 - tab - shows inventory
+					 - E - start dialoue with npc
+					 - enter - next dialogue
+					 - F - mine, enter portal
+in editor - don't save if you dont know what you are doing
+		  - left click to place, right to delete tile
+		  - C - place tile with collision
+		  - R - automatically replace tile
+		  - O - draw single layer
