@@ -35,3 +35,6 @@ Choose map which one you want to edit in dropdown menu and click load. Then you 
 you first need to open save 2 or 3 and then go to editor and start editing. Don't forget to save the map before quitting.
 
 
+## Example
+![My Image](imgs/forestBattle.png)
+
